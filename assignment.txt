@@ -1,0 +1,28 @@
+x = 10
+y = 3.14
+name = "John"
+is_true = True
+numbers = [1, 2, 3, 4]
+coordinates = (10, 20)
+person = {"name": "John", "age": 25}
+
+print(x)                # Output: 10
+print(y)                # Output: 3.14
+print(name)             # Output: John
+print(is_true)          # Output: True
+print(numbers)          # Output: [1, 2, 3, 4]
+print(coordinates)      # Output: (10, 20)
+print(person)           # Output: {'name': 'John', 'age': 25}
+
+c=10+20j
+print(c)
+print(c+5)
+print(type(c))
+print(c.real)
+print(c.imaginary)
+
+output:- (10+20j)
+(15+20j)
+<class 'complex'>
+10.0
+20.0
